@@ -11,7 +11,7 @@ public class AppController {
 		return "index";
 	}
 	@RequestMapping("/register")
-	public String loadHomepage() {
+	public String loadRegisterPage() {
 		return "register";
 	}
 	
