@@ -10,17 +10,5 @@ public class AppController {
 	public String loadHomepage() {
 		return "index";
 	}
-
-	@RequestMapping("/admin")
-   	public String adminPage() {
-        	return "admin";
-   	 }
-
-	@RequestMapping("/user")
-   	public String userPage() {
-        	return "user";
-   	 }
-	
-
 	
 }
