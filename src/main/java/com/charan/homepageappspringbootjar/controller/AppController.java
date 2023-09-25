@@ -10,5 +10,9 @@ public class AppController {
 	public String loadHomepage() {
 		return "index";
 	}
+	@RequestMapping("/register")
+	public String loadHomepage() {
+		return "register";
+	}
 	
 }
