@@ -18,7 +18,7 @@
 				<li><a href="#">About</a></li>
 				<li><a href="#">Services</a></li>
 				<li><a href="#">Portfolio</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="register">Register</a></li>
 			</ul>
 		</div>
 		<div class="welcome-text">
