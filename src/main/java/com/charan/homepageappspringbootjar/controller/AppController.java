@@ -15,4 +15,9 @@ public class AppController {
 		return "register";
 	}
 	
+    @RequestMapping("/admin")
+    public String adminPage() {
+        return "admin";
+    }
+	
 }
