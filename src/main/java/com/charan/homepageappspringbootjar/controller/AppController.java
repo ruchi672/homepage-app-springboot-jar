@@ -16,7 +16,7 @@ public class AppController {
 	}
 	@RequestMapping("/admin")
     	public String adminPage() {
-        return "admin"
+        return "admin";
     	}
 	
 }
