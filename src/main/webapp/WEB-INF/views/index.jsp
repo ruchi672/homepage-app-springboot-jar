@@ -16,6 +16,7 @@
 				<li><a href="#">Home</a></li>
 				<li><a href="#">About</a></li>
 				<li><a href="#">Services</a></li>
+				<li><a href="admin">Admin</a></li>
 				<li><a href="#">Portfolio</a></li>
 				<li><a href="register">Register</a></li>
 			</ul>
